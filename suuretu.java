@@ -1,7 +1,8 @@
+#java double 桁落ち
 class suuretu{
 public static void main(String args[])
 {
-int [] f = new int[101];
+double [] f = new double[101];
 f[0] = 0;
 System.out.println("フィボナッチ数列");
 for (int i=0 ; i<=100 ; i++){
